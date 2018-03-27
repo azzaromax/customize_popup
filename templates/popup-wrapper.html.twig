@@ -1,0 +1,20 @@
+
+<div class="customize-popup--shadow"></div>
+
+<div class="customize-popup">
+
+  {% if css %}
+    <style>
+      {{ css }}
+    </style>
+  {% endif %}
+
+  <div class="customize-popup--close">
+    <a href="#" class="js-customize-popup--close">&times;</a>
+  </div>
+
+  <div class="customize-popup--content">
+    {{ content }}
+  </div>
+
+</div>

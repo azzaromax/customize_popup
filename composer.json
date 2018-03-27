@@ -1,0 +1,19 @@
+{
+  "name": "azzaromax/customize_popup",
+  "type": "drupal-module",
+  "description": "Drupal customize popup module",
+  "keywords": ["Drupal", "popup"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/azzaromax/customize_popup",
+  "authors": [
+    {
+      "name": "Sergienko Maksim",
+      "email": "azzaro.max@gmail.com",
+      "homepage": "http://drupal.org/u/azzaromax"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+
+  }
+}
